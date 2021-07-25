@@ -1,5 +1,5 @@
 # Machine-Learning
-# Classification Wine Data
+# Classifying Wine Data
 Classification problem:
 
 
